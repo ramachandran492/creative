@@ -1,6 +1,5 @@
 
 
-
 class Sample {
 
 
@@ -12,6 +11,14 @@ void fun(){
   
   
   System.out.println("added this fundtion in git hub repository!");
+  
+}
+
+
+void bun() {
+  
+  
+  System.out.println("you have called a bun!\n ");
   
 }
 
